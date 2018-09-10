@@ -1,0 +1,22 @@
+Buatlah Aplikasi web yang menampilkan slip gaji karyawan
+dengan ketentuan sebagai berikut : 
+
+1. Gaji pokok karyawan :
+	- Supervisor 	: 6.000.000
+	- Manajer 		: 8.000.000
+	- Staff			: 4.000.000
+
+2. status
+	- Menikah
+		Mendapatkan tambahan dari sebesar gaji pokok 10%
+	- Belum Menikah
+		Tidak mendapatkan tambahan
+3. gaji tabahan lembuh :
+	- Supervisor 	: 100.000/jam
+	- Manajer 		: 75.000/jam
+	- Staff			: 50.000/jam
+4. Total gaji = Gaji pokok + status + lembur
+5. untuk tunjangan menggunakan fungsi pilihan yang terdiri dari (dapat dipilih lebih dari satu) :
+	- makan
+	- transport
+	- lembur
